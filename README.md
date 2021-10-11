@@ -14,4 +14,4 @@ and transforming the dataframes to address our group-questions:
 
 - We stored the plots for our code in another folder called 'visualization notebooks' as individual jupyter notebooks, with each notebook addressing a group-question.
 
-- our report discussing our plots and findings is also attached as a .pdf
+- Our report discussing our plots and findings is also attached as a .pdf
